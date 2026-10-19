@@ -31,18 +31,18 @@ O objetivo deste projeto foi avaliar a relação de custo-benefício (tempo de p
 ## 🚀 Como Executar Localmente
 
 1. **Clone o repositório:**
-   ```bash
-git clone https://github.com/eniocancian/imdb-sentiment-benchmark.git
+```bash
+git clone [https://github.com/eniocancian/imdb-sentiment-benchmark.git](https://github.com/eniocancian/imdb-sentiment-benchmark.git)
 cd imdb-sentiment-benchmark
-   ```
+```
 
 2. **Instale as dependências:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 3. **Execute o pipeline completo:**
-   ```bash
-   python benchmark.py
-   ```
-   *(Ou abra a versão interativa na pasta `notebooks/benchmark_imdb.ipynb`).*
+```bash
+python benchmark.py
+```
+*(Ou abra a versão interativa na pasta `notebooks/benchmark_imdb.ipynb`).*
