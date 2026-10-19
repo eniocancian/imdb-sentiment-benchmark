@@ -30,8 +30,8 @@ O objetivo deste projeto foi avaliar a relação de custo-benefício (tempo de p
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/imdb-sentiment-benchmark.git](https://github.com/SEU-USUARIO/imdb-sentiment-benchmark.git)
-   cd imdb-sentiment-benchmark
+git clone https://github.com/eniocancian/imdb-sentiment-benchmark.git
+cd imdb-sentiment-benchmark
    ```
 
 2. **Instale as dependências:**
