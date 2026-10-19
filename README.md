@@ -24,7 +24,9 @@ O objetivo deste projeto foi avaliar a relação de custo-benefício (tempo de p
 
 *(Valores consolidados no ficheiro `benchmark_results.csv` gerado durante a execução).*
 
----
+<p align="center">
+  <img src="results/figures/benchmark_comparison.png" alt="Comparativo de Benchmark IMDb" width="850">
+</p>
 
 ## 🚀 Como Executar Localmente
 
