@@ -1,0 +1,4 @@
+Arquitetura,Acuracia_Teste_Porcentagem,Tempo_CPU_Minutos
+TF-IDF + Reg. Logística,90.03,10.60
+BiLSTM (Recorrente),79.88,4.55
+Transformer Nativo,81.04,4.30

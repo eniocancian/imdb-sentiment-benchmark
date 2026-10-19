@@ -1,0 +1,14 @@
+# Ignora a base de dados do IMDb em qualquer subpasta
+**/aclImdb/
+**/aclImdb_v1.tar.gz
+*.tar.gz
+
+# Ficheiros de cache e temporários
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
